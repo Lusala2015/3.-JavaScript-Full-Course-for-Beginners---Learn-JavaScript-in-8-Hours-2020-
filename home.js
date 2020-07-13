@@ -41,8 +41,25 @@ console.log(num1);
 
 // creating
 function fun(){
-    alert('This is a function');
+   console.log('This is a function');
 }
 
 // calling
 fun();
+
+/*create a function that takes in a name and says Hello and followed by your  name 
+
+For Example
+
+Name : "Mark"
+Return : "Hello Mark"
+*/
+
+function greeting (){
+    var name = prompt('What is your name?');
+    var result = 'Hello ' + '' +  name; // String Concatenation
+    console.log(result);
+}
+
+greeting();
+
