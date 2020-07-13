@@ -23,3 +23,4 @@ console.log(5*10);
 console.log(50/2);
 console.log(5-3);
 console.log(5+789);
+console.log(23%5);
