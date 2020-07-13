@@ -61,5 +61,14 @@ function greeting (){
     console.log(result);
 }
 
-greeting();
+//greeting();
 
+//How do functions work in functions 
+
+// how to add 2 nubers in a function.
+function sumNumbers(num1, num2){
+    var result = num1 + num2;
+    console.log(result)
+}
+
+sumNumbers(23, 78);
