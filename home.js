@@ -11,6 +11,12 @@ console.log(someNumber);
 
 //document.getElementById('someText').innerHTML = "mark lusala";
 
-var age = prompt('What is your age?'); 
+//var age = prompt('What is your age?'); 
 
-document.getElementById('someText').innerHTML = age;
+//document.getElementById('someText').innerHTML = age;
+
+
+//NUMBERS IN JAVASCRIPT
+
+var num1 = 5.9;
+console.log(5*10);
