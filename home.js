@@ -71,4 +71,16 @@ function sumNumbers(num1, num2){
     console.log(result)
 }
 
-sumNumbers(23, 78);
+//sumNumbers(23, 78);
+
+function greeting (yourName){
+    var result = 'Hello ' + '' +  yourName; // String Concatenation
+    console.log(result);
+}
+
+var name = prompt('What is your name?');
+greeting(name);
+
+
+
+
