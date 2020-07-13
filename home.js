@@ -1,2 +1,4 @@
 console.log("hello");
-alert("yoooo");
+//alert("yoooo"); ===> How to write a comment inline.
+
+//variables 
