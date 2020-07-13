@@ -20,3 +20,4 @@ console.log(someNumber);
 
 var num1 = 5.9;
 console.log(5*10);
+console.log(50/2);
