@@ -24,3 +24,9 @@ console.log(50/2);
 console.log(5-3);
 console.log(5+789);
 console.log(23%5);
+
+//incrementing numbers
+
+num1 += 5;
+console.log(num1);
+
