@@ -33,3 +33,16 @@ console.log(num1);
 //decrenementing numbers 
 num1--;
 console.log(num1);
+
+/*FUNCTIONS 
+1. create a function.
+2. Call the Function.
+*/
+
+// creating
+function fun(){
+    alert('This is a function');
+}
+
+// calling
+fun();
