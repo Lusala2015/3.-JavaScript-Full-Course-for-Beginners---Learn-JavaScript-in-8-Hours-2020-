@@ -30,3 +30,6 @@ console.log(23%5);
 num1 += 5;
 console.log(num1);
 
+//decrenementing numbers 
+num1--;
+console.log(num1);
