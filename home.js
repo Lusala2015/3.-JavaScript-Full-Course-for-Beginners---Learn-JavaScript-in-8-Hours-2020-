@@ -82,5 +82,15 @@ var name = prompt('What is your name?');
 greeting(name);
 
 
+function gring (yourName){
+    var rslt = 'Hello ' + '' +  yourName; // String Concatenation
+    console.log(rslt);
+}
+
+var name = prompt('What is your name?');
+gring(name);
+
+
+
 
 
