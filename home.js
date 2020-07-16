@@ -74,8 +74,8 @@ function sumNumbers(num1, num2){
 
 
 function greeting (yourName){
-    var result = 'Hello ' + '' +  yourName; // String Concatenation
-    console.log(result);
+    var rslt = 'Hello ' + '' +  yourName; // String Concatenation
+    console.log(rslt);
 }
 
 var name = prompt('What is your name?');
